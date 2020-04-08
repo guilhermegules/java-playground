@@ -1,2 +1,2 @@
 # Java_playground
-Repo to train and study for college
+Repo for training and study for college
